@@ -1,0 +1,49 @@
+.logo img {
+    width: 100px;
+    height: 100px;
+}
+
+.navbar {
+    background-color: #cacaca;    
+}
+
+.quemsomos {
+    background-color: #545355;
+}
+
+.quem-somos {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.capa {
+    width: 100%; 
+}
+
+h3 {
+    text-align: center;
+}
+
+.logo-circo {
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+
+}
+
+.logos-circo {
+    box-sizing: content-box;
+    display: flex;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.parceiros {
+    background-color: black;
+}
+
+.parceiros h3 {
+    color: white;
+}
